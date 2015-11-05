@@ -1,6 +1,6 @@
 {
   "name": "sqlviz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts a SQL schema to a graphviz based visualization. Currently only supports mysql.",
   "main": "index.js",
   "scripts": {
