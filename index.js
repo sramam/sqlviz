@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var program = require('commander'),
     Promise = require('bluebird'),
     inquirer = require('inquirer'),
